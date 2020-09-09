@@ -1,0 +1,5 @@
+module hw (a,b);
+
+input [4:0] a;
+input [4:0] b;
+endmodule 
